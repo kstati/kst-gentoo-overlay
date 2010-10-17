@@ -1,0 +1,67 @@
+10
+
+dir
+15
+http://kst-gentoo-overlay.googlecode.com/svn/trunk/virtual
+http://kst-gentoo-overlay.googlecode.com/svn
+
+
+
+2010-01-15T11:10:04.914971Z
+7
+flekst
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3df5d5c2-fe00-11de-96a1-f9a22718b690
+
+eka-avir
+dir
+
+eka-gnome-pack
+dir
+
+eka-vm
+dir
+
+eka-webserver
+dir
+
+eka-system
+dir
+
+eka-versioncontrol
+dir
+
+eka-internet
+dir
+
+eka-editors
+dir
+
+eka-desktop
+dir
+
+eka-multimedia
+dir
+
+eka-office
+dir
+
+eka-print
+dir
+
+eka-graphics
+dir
+

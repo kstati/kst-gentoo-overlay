@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6/trunk/virtual/eka-gnome-pack
+END
+Manifest
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5/trunk/virtual/eka-gnome-pack/Manifest
+END
+eka-gnome-pack-1.0.0.ebuild
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/virtual/eka-gnome-pack/eka-gnome-pack-1.0.0.ebuild
+END
+eka-gnome-pack-1.0.1.ebuild
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/virtual/eka-gnome-pack/eka-gnome-pack-1.0.1.ebuild
+END

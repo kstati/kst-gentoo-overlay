@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layman>
+  <overlay 
+     contact="flekst@gmail.com" 
+     name="kstati" 
+     src="http://kst-gentoo-overlay.googlecode.com/svn/trunk/"
+     status="unofficial" type="svn">
+    <link>http://code.google.com/p/kst-gentoo-overlay/</link>
+    <description>kstati's gentoo overlay</description>
+  </overlay>
+</layman>
