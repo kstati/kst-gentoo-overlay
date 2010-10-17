@@ -3,9 +3,9 @@
   <overlay 
      contact="flekst@gmail.com" 
      name="kstati" 
-     src="http://kst-gentoo-overlay.googlecode.com/svn/trunk/"
-     status="unofficial" type="svn">
-    <link>http://code.google.com/p/kst-gentoo-overlay/</link>
+     src="git://github.com/kstati/kst-gentoo-overlay.git"
+     status="unofficial" type="git">
+    <link>http://github.com/kstati/kst-gentoo-overlay/</link>
     <description>kstati's gentoo overlay</description>
   </overlay>
 </layman>
