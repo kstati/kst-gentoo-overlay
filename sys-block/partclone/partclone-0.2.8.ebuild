@@ -11,7 +11,7 @@ SRC_URI="mirror://sourceforge/partclone/partclone_${PV}.tar.gz"
 LICENSE="GPL-2"
 SLOT="0"
 KEYWORDS="amd64 x86"
-IUSE="xfs reiserfs reiser4 hfs fat ntfs "
+IUSE="xfs jfs reiserfs reiser4 hfs fat ntfs "
 
 RDEPEND="${common_depends}
         >=sys-fs/e2fsprogs-1.41.4
